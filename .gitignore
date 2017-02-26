@@ -1,0 +1,4 @@
+.serverless/
+node_modules/
+.env
+attak_runner.js

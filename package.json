@@ -1,0 +1,21 @@
+{
+  "name": "attak-example",
+  "version": "0.0.1",
+  "description": "simple attak topology example",
+  "main": "topology.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZECTBynmo (michael.vegeto@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "attak-processor": "0.1.0",
+    "kinesis": "^1.2.2",
+    "leveldown": "^1.6.0",
+    "levelup": "^1.3.3",
+    "moment": "^2.17.1",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "sentiment": "^3.0.0"
+  }
+}
